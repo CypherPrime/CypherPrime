@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 About Me  
+##  About Me  
 I design and engineer intelligent, scalable systems blending software engineering + artificial intelligence.
 
 - 🧑‍💻 Full-stack (React, Node, Django, Cloud)  
@@ -20,7 +20,7 @@ I design and engineer intelligent, scalable systems blending software engineerin
 
 ---
 
-## ⚙️ Tech Universe  
+## 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,django,mongodb,postgres,aws,threejs&theme=dark"/>
@@ -28,7 +28,7 @@ I design and engineer intelligent, scalable systems blending software engineerin
 
 ---
 
-## 🌐 Interactive / Visual Layer (Point Cloud + Web3 Style)
+## 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -40,7 +40,7 @@ I design and engineer intelligent, scalable systems blending software engineerin
 
 ---
 
-## 🚀 Featured Projects (Animated Showcase)
+## 🚀 Featured Projects
 
 ### 🏥 HomeClinic — AI Healthcare Platform  
 <p align="center">
@@ -78,7 +78,7 @@ I design and engineer intelligent, scalable systems blending software engineerin
 
 ---
 
-## 📊 GitHub Intelligence  
+## 📊 GitHub 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CypherPrime&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -90,7 +90,7 @@ I design and engineer intelligent, scalable systems blending software engineerin
 
 ---
 
-## 🧬 Contribution Graph (Neural Style)
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CypherPrime&theme=tokyo-night&hide_border=true"/>
@@ -98,7 +98,7 @@ I design and engineer intelligent, scalable systems blending software engineerin
 
 ---
 
-## 🌍 Current Focus  
+##  Current Focus  
 
 - 🧠 Medical AI systems (NLP + Vision)  
 - 🗺️ GIS + 3D spatial visualization (Three.js, Cesium)  
@@ -114,7 +114,6 @@ I design and engineer intelligent, scalable systems blending software engineerin
 
 ---
 
-## ⚡ Web3 / Futuristic Footer  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:0f2027,100:000000&height=120&section=footer"/>
